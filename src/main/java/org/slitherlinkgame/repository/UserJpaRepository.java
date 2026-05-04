@@ -1,0 +1,10 @@
+package org.slitherlinkgame.repository;
+
+import org.slitherlinkgame.entity.User;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.Optional;
+
+public interface UserJpaRepository extends JpaRepository<User, Long> {
+    Optional<User> findDistinctByEmail(String email);
+}
