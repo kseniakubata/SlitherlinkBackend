@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af7cc23c-7ea0-43d6-8508-b17ae60ca494" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3BaBZKZHjHUQkdSccyNcxIzMDl3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.All in Slitherlink.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.org.slitherlinkgame in Slitherlink.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.GameStudio [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.GameStudio [install].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SlitherlinkApplication.executor&quot;: &quot;Run&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.All in Slitherlink">
+    <configuration name="All in Slitherlink" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Slitherlink" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.slitherlinkgame in Slitherlink" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Slitherlink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.slitherlinkgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.slitherlinkgame" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SlitherlinkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Slitherlink" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.slitherlinkgame.SlitherlinkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Slitherlink" />
+        <item itemvalue="JUnit.org.slitherlinkgame in Slitherlink" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af7cc23c-7ea0-43d6-8508-b17ae60ca494" name="Changes" comment="" />
+      <created>1774717357872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774717357872</updated>
+      <workItem from="1774717358837" duration="837000" />
+      <workItem from="1774732892964" duration="3067000" />
+      <workItem from="1774770321416" duration="11317000" />
+      <workItem from="1774797695213" duration="902000" />
+      <workItem from="1774801270790" duration="2069000" />
+      <workItem from="1774898068493" duration="947000" />
+      <workItem from="1774949975224" duration="1783000" />
+      <workItem from="1774962969487" duration="3032000" />
+      <workItem from="1775229080259" duration="3574000" />
+      <workItem from="1776008931225" duration="503000" />
+      <workItem from="1776171954594" duration="9839000" />
+      <workItem from="1776238955510" duration="2588000" />
+      <workItem from="1776241966656" duration="538000" />
+      <workItem from="1776243231999" duration="5293000" />
+      <workItem from="1776252438171" duration="28000" />
+      <workItem from="1776276880573" duration="1856000" />
+      <workItem from="1776588067359" duration="8921000" />
+      <workItem from="1776666083861" duration="602000" />
+      <workItem from="1776784714462" duration="609000" />
+      <workItem from="1776848609027" duration="698000" />
+      <workItem from="1777217412689" duration="227000" />
+      <workItem from="1777651876029" duration="1781000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
