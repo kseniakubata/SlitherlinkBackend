@@ -1,5 +1,6 @@
 package org.slitherlinkgame.entity;
 
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -13,22 +14,23 @@ import java.util.Date;
 @RequiredArgsConstructor
 @Setter
 @Getter
-public class Comment {
+public class Score {
+
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    @Setter(AccessLevel.NONE)
     private Long id;
 
     @NonNull
     private String game;
 
     @NonNull
-    private String player;
+    private Integer points;
 
     @NonNull
-    private String comment;
+    private String player;
 
     @NonNull
     private Date datedOn;
 
 }
+

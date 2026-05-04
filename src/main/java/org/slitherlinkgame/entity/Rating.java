@@ -13,7 +13,7 @@ import java.util.Date;
 @RequiredArgsConstructor
 @Setter
 @Getter
-public class Comment {
+public class Rating {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     @Setter(AccessLevel.NONE)
@@ -26,9 +26,8 @@ public class Comment {
     private String player;
 
     @NonNull
-    private String comment;
+    private Integer rating;
 
     @NonNull
     private Date datedOn;
-
 }
